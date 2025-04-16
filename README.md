@@ -21,13 +21,14 @@ O propósito principal é explorar e testar:
 
 ## Estrutura do Projeto
 ```
-landing-page-estudo/
+landing_page/
 │
 ├── index.html          # Arquivo HTML principal
-├── css/
-│   └── estilos.css     # Arquivo principal de estilos CSS
 ├── assets/
 │   └── imagens/        # Pasta para imagens (ex.: fundo, ícones)
+    └── css/
+      └── style.css     # Arquivo de estilização principal
+    └──js/              # Teria os arquivos script
 └── README.md           # Documentação do projeto
 ```
 
