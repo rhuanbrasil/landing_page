@@ -1,0 +1,226 @@
+:root{
+    --principal-ball-color: #D3D3D3;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav_bar_container{
+    min-width: 1280px;
+    max-height: 90px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    
+}
+.name_ball{
+    max-width: 128.09px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5px;
+}
+.ball_navbar{
+    width: 129px;
+    height: 117px;
+    border-radius: 55%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -60px;
+    left: -80px;
+   
+
+}
+.my_name{
+    font-family: "Krona One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    position: absolute;
+}
+hr{
+    border: 2px solid #d9d9d9;
+}
+.box_menu{
+    display: flex;
+    width: 473px;
+    height: 90px;
+    align-items: center;
+    justify-content: space-between;
+}
+.options{
+    width: 1280px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+
+}
+.name_options{
+    font-size: 22px;
+    font-family: "Instrument Sans", sans-serif;
+    padding: 5px;
+    
+}
+.menu_options{
+    width: 190px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container_main{
+    min-width: 1280px;
+    height: 602px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.social_block{
+    width: 259px;
+    height: 602px;
+    display: flex;
+    align-items: flex-end;
+}
+.principal_block{
+   min-width: 835px;
+    height: 602px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+.ball_solo{
+   min-width: 257px; 
+   height: 602px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 5px;
+   
+}
+.social_ball{
+    width: 295px;
+    height: 283px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 120px;
+    left: -100px;
+}
+.icons_social{
+    position: absolute;
+    right: 33px;
+}
+#github{
+    margin-left: 10px;
+}
+footer{
+ height: 203px;
+ background-color: white;
+ position: relative;
+}
+.principal_ball{
+    width: 449px;
+    height: 443px;
+    border-radius: 50%;
+    background-color: var(--principal-ball-color);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    position: relative;
+
+}
+.principal_pic{
+    top: -50px;
+    position: relative;
+}
+.principal_text{
+    font-family: "Instrument Sans", sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 20px;
+
+}
+#text_adjust{
+    position: relative;
+    left: -5px;
+}
+#text_adjust2{
+    position: relative;
+    left: -4px;
+}
+.mini_ball{
+    width: 126px;
+    height: 118px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    margin-top: 300px;
+}
+.link_principal{
+    display: flex;
+    position: relative;
+    max-width: 179px;
+    height: 602px;
+    overflow-wrap: break-word;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.caption{
+    padding-left: 10px;
+    margin-top: 5px;
+    font-family: "Instrument Sans", sans-serif;
+    margin-left: 3px;
+}
+.tittle{
+    font-family: "Instrument Sans", sans-serif;
+    position: relative;
+    left: 30px;
+}
+.tittle h1{
+    font-weight: 500;
+}
+a{
+    text-decoration: none;
+    color: #4F4F4F;
+
+}
+.footer_container{
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+}
+.box_infos{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    max-width: 260px;
+}
+
+.box_infos h1{
+    font-family: "Instrument Sans", sans-serif;
+    font-weight: 300;
+    font-size: larger;
+}
+
+.bot_border{
+    height: 2px;
+    width: 50px;
+    background-color: var(--principal-ball-color);
+    border-radius: 50px;
+    margin-bottom: 5px;
+}
+.caption_footer h4{
+    margin-bottom: 5px;
+    font-family: "Instrument Sans", sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+}
