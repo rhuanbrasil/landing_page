@@ -2,7 +2,7 @@
 # Landing Page para Estudo de Estilização CSS
 
 ## Visão Geral do Projeto
-Este projeto é uma **landing page** estática desenvolvida com o objetivo de **estudo** e prática de **padrões de estilização complexos** utilizando **HTML** e **CSS**. A página não possui funcionalidades interativas, focando exclusivamente em design visual, layout responsivo e técnicas avançadas de estilização para aprimorar habilidades de front-end.
+Este projeto é uma **landing page** estática desenvolvida com o objetivo de **estudo** e prática de **padrões de estilização complexos** utilizando **HTML** e **CSS**. A página não possui funcionalidades interativas, focando exclusivamente em design visual e técnicas avançadas de estilização para aprimorar habilidades de front-end.
 
 ## Objetivo
 O propósito principal é explorar e testar:
