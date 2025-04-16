@@ -34,11 +34,11 @@ landing-page-estudo/
 ## Instalação e Configuração
 1. **Baixe ou clone o projeto**:
    ```
-   git clone <url-do-repositório>
+   git clone https://github.com/rhuanbrasil/landing_page.git
    ```
 2. Navegue até a pasta do projeto:
    ```
-   cd landing-page-estudo
+   cd landing_page
    ```
 3. Abra o arquivo `index.html` em um navegador:
    - Para uma melhor experiência, use um servidor local (ex.: extensão Live Server do VS Code).
